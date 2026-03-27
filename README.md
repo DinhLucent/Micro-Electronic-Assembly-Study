@@ -1,14 +1,18 @@
-# Micro-Electronic-Assembly-Study
+# Micro Electronic Device Learn Ensembly
 
-A repository dedicated to the study of micro-electronic devices and assembly language programming. This project features code for low-level hardware control and architecture analysis.
+Basic assembly programming notes for micro-electronic devices.
 
-## ┬┐ Key Topics
-- **Assembly Language**: Programming for specific microcontroller architectures.
-- **Hardware Interfacing**: Code for controlling LEDs, sensors, and displays.
-- **Memory Management**: Optimization techniques for embedded systems.
+## Features
+- {Feature Description}
+- Detailed project mapping
+- Standardized branding
 
-## ┬┐ Project Structure
-- `src/`: Assembly source code files.
+## Tech Stack
+- **Primary**: Assembly
+- **Domain**: Electronics
+
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
